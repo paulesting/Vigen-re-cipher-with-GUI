@@ -18,3 +18,4 @@ Encryption:
 
 The first letter of the plaintext, G is paired with A, the first letter of the key. So use row G and column A of the Vigenère square, namely G. Similarly, for the second letter of the plaintext, the second letter of the key is used, the letter at row E, and column Y is C. The rest of the plaintext is enciphered in a similar fashion. 
 
+This program focus on implemrnting with tkinter GUI python programming
